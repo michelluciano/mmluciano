@@ -1,0 +1,23 @@
+package br.com.qualirede;
+
+import java.util.Scanner;
+
+
+public class TesteJava {
+   //pacotes
+	// classes
+	 // metodos
+	  //variaveis e constantes
+	
+	public static void main (String[] args) {
+		int    idade;
+		String procedimento,
+		       permitido;
+		char   sexo;
+		
+		System.out.println("Digite a idade:");
+		Scanner in = new Scanner (System.in);
+		System.out.println (in.nextLine());
+	}
+	
+}

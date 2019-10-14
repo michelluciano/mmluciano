@@ -1,0 +1,32 @@
+package br.com.qualirede;
+
+import java.util.Scanner;
+
+
+public class TesteJava {
+   //pacotes
+	// classes
+	 // metodos
+	  //variaveis e constantes
+	
+	public static void main (String[] args) {
+		int    idade;
+		String procedimento,
+		       permitido;
+		char   sexo;
+		
+		System.out.println("Digite a idade:");
+		Scanner in = new Scanner (System.in);
+		idade = in.nextInt();
+		
+		System.out.println (idade);
+		
+		if (idade == 10 ) {
+			System.out.println("valor é igual ="+idade);
+		}else {
+			System.out.println("o valor nao é igual :"+idade);
+		}
+			
+	}
+	
+}

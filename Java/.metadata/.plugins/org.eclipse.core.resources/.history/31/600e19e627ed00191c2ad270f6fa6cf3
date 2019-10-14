@@ -1,0 +1,15 @@
+package br.com.qualirede;
+
+public class TesteJava {
+   //pacotes
+	// classes
+	 // metodos
+	  //variaveis e constantes
+	
+	public static void main (String[] args) {
+		int num = 100;
+		
+		System.out.println(num);
+	}
+	
+}
