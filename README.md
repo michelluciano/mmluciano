@@ -1,5 +1,7 @@
 # mmluciano
 TrabalhosJava
+Utilizei o Eclipse para desenvolver o exercicio e o banco mysql
+
 DADOS PARA O BANCO DE DADOS
 
 /*senha root do mysql
